@@ -1,4 +1,4 @@
-# JavaScriptPractise
+Place to learn JS.
 
 Diff between "while" and "do while":
 
